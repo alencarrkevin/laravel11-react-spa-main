@@ -1,6 +1,21 @@
-# Laravel 11 + React
-A simple project management application using Laravel 11 and React.
+# 🚀 Explorando o Laravel + React
 
+
+📂 Criação de projetos e configuração inicial  
+🚏 Definição de rotas e organização de controllers  
+🖼️ Trabalhando com React para estruturar o front-end  
+🛠️ Migrations e Seeders para gerenciamento de banco de dados  
+💾 Usando Inertia
+
+Aplicativo Laravel SPA para gerenciamento de projtetos.
+
+Que venham os próximos desafios! 💻🌟
+
+## CRUD de Projetcs, Task and Users
+
+<div align="center">
+  <img src="public/assets/gif.gif" alt="Demonstração do Projeto">
+</div>
 
 
 ## Features
