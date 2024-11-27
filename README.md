@@ -7,7 +7,7 @@
 🛠️ Migrations e Seeders para gerenciamento de banco de dados  
 💾 Usando Inertia
 
-Aplicativo Laravel SPA para gerenciamento de projtetos.
+Aplicativo Laravel SPA para gerenciamento de projetos.
 
 Que venham os próximos desafios! 💻🌟
 
